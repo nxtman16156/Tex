@@ -1,0 +1,6 @@
+2018-08-16 17:43:00,694-0400 INFO  miktex-makefmt - starting with command line: miktex-makefmt.exe --engine=pdftex --dest-name=pdflatex --no-dump pdflatex.ini --engine-option=-tcx=cp227.tcx
+2018-08-16 17:43:00,718-0400 INFO  makefmt - found input file: C:\Users\200394095\Documents\MikTex\texmfs\install\tex\latex\00miktex\pdflatex.ini
+2018-08-16 17:43:00,724-0400 INFO  makefmt - Creating the pdflatex format file...
+2018-08-16 17:43:00,792-0400 INFO  makefmt - Running miktex-pdftex.exe...
+2018-08-16 17:43:00,792-0400 INFO  makefmt - running: miktex-pdftex.exe --initialize --interaction=nonstopmode --halt-on-error --alias=pdflatex --job-name=pdflatex -tcx=cp227.tcx --enable-etex pdflatex.ini
+2018-08-16 17:43:02,673-0400 INFO  miktex-makefmt - finishing with exit code 0

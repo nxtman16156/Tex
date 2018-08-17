@@ -1,0 +1,4 @@
+2018-08-16 17:43:01,445-0400 INFO  miktex-pdftex - starting with command line: miktex-pdftex.exe --initialize --interaction=nonstopmode --halt-on-error --alias=pdflatex --job-name=pdflatex -tcx=cp227.tcx --enable-etex pdflatex.ini
+2018-08-16 17:43:01,460-0400 INFO  miktex-pdftex - allowing known shell commands
+2018-08-16 17:43:01,460-0400 INFO  miktex-pdftex - enabling input (output) from (to) processes
+2018-08-16 17:43:02,557-0400 INFO  miktex-pdftex - finishing with exit code 0

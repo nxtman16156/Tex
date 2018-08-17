@@ -1,0 +1,35 @@
+2018-08-16 17:33:11,743-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:33:11,743-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:33:11,743-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-08-16 17:33:11,758-0400 INFO  initexmf - running: mkfntmap
+2018-08-16 17:35:51,893-0400 INFO  initexmf - finishing with exit code 0
+2018-08-16 17:37:15,353-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:37:15,353-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:37:15,353-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-08-16 17:37:15,355-0400 INFO  initexmf - running: mkfntmap
+2018-08-16 17:37:20,437-0400 INFO  initexmf - finishing with exit code 0
+2018-08-16 17:41:12,547-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:41:12,547-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:41:12,547-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-08-16 17:41:12,549-0400 INFO  initexmf - running: mkfntmap
+2018-08-16 17:41:17,778-0400 INFO  initexmf - finishing with exit code 0
+2018-08-16 17:43:00,128-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:43:00,128-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:43:00,128-0400 INFO  initexmf - starting with command line: initexmf --dump-by-name=pdflatex --engine=pdftex
+2018-08-16 17:43:00,128-0400 INFO  initexmf - running: miktex-makefmt.exe --engine=pdftex --dest-name=pdflatex --no-dump pdflatex.ini --engine-option=-tcx=cp227.tcx
+2018-08-16 17:43:02,681-0400 INFO  initexmf - finishing with exit code 0
+2018-08-16 17:49:12,504-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:49:12,504-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:49:12,504-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-08-16 17:49:12,504-0400 INFO  initexmf - running: mkfntmap
+2018-08-16 17:49:16,966-0400 INFO  initexmf - finishing with exit code 0
+2018-08-16 17:50:50,034-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:50:50,034-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:50:50,034-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-08-16 17:50:50,034-0400 INFO  initexmf - running: mkfntmap
+2018-08-16 17:50:54,272-0400 INFO  initexmf - finishing with exit code 0
+2018-08-16 17:55:55,829-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.6713 (MiKTeX 2.9.6730)
+2018-08-16 17:55:55,829-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2018-08-16 17:55:55,829-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2018-08-16 17:55:55,845-0400 INFO  initexmf - running: mkfntmap
+2018-08-16 17:55:59,871-0400 INFO  initexmf - finishing with exit code 0

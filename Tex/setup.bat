@@ -1,0 +1,1 @@
+setx path "%USERPROFILE%\Documents\Tex\MikTex\texmfs\install\miktex\bin"

@@ -1,0 +1,13 @@
+2018-08-16 17:42:59,428-0400 INFO  pdflatex - starting with command line: pdflatex -synctex=1 -interaction=nonstopmode test.tex
+2018-08-16 17:42:59,464-0400 INFO  pdflatex - allowing known shell commands
+2018-08-16 17:42:59,465-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2018-08-16 17:42:59,494-0400 INFO  pdflatex - going to create file: pdflatex.fmt
+2018-08-16 17:43:03,389-0400 INFO  pdflatex - finishing with exit code 0
+2018-08-16 17:56:49,110-0400 INFO  pdflatex - starting with command line: pdflatex -synctex=1 -interaction=nonstopmode test.tex
+2018-08-16 17:56:49,125-0400 INFO  pdflatex - allowing known shell commands
+2018-08-16 17:56:49,125-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2018-08-16 17:56:49,508-0400 INFO  pdflatex - finishing with exit code 0
+2018-08-16 18:08:10,862-0400 INFO  pdflatex - starting with command line: pdflatex -synctex=1 -interaction=nonstopmode test.tex
+2018-08-16 18:08:10,893-0400 INFO  pdflatex - allowing known shell commands
+2018-08-16 18:08:10,893-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2018-08-16 18:08:11,260-0400 INFO  pdflatex - finishing with exit code 0
